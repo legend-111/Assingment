@@ -1,0 +1,21 @@
+h1{
+text-align: center;
+
+}
+p{
+font-size: 30px;
+text-align: center;
+}
+img
+{
+width: 650px;
+border: 4px;
+}
+body{
+text-align: center;
+background-color: rgb(192, 192, 192);
+}
+.text
+{
+color: white;
+}
